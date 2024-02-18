@@ -1,4 +1,6 @@
 # Pale Blue Dot Competition
+![image](https://github.com/robxcalib3r/Pale-Blue-Dot-visualization/assets/34865153/1f6cf54d-6b0a-4701-bab2-404f889af47f)
+
 ## Criteria
 create a visualisation using Earth observation data that advances at least one of the following -
 1. Zero Hunger
